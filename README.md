@@ -2,8 +2,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jesus-Rojas)
 
-I am a young man with a passion for programming looking for his first job as a junior developer.
-I have experience in frontend with Angular, Vue JS and React. In the backend with Laravel.
+I am a young man with a passion for programming .
+I like to solve problems since it helps me to be self-taught.
+I have experience in frontend with Angular and Vue JS. In the backend with Laravel.
 
 
 #### Programming languages, databases and tools: 
