@@ -9,7 +9,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
 
 #### Programming languages, databases and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jesus-Rojas&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jesus-Rojas&show_icons=true&hide_border=true&show_icons=true&theme=chartreuse-dark" />
 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -33,12 +33,11 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
 
-
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"></code>
+<!-- <code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code> -->
+<!-- <code><img width="5%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"></code> -->
 </p>
 
 
