@@ -70,7 +70,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>Pages</strong>
         </summary>
-        <details style="margin-left: 1rem">
+        <details style="margin-left: 16px">
             <summary>
                 <strong>Vue</strong>
             </summary>
