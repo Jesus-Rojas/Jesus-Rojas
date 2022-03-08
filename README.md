@@ -50,18 +50,22 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>My environments</strong>
         </summary>
-        <details style="margin-left: 1rem">
-            <summary>
-                <strong>Laptop</strong>
-            </summary>
-            <ul>
-                <li>CPU: Intel Celeron N 2840 (max 2.58 GHz)</li>
-                <li>RAM: 8GB (DDR3 - 1600mhz)</li>
-                <li>SSD: 240GB</li>
-                <li>HDD: 500GB</li>
-                <li> OS: Linux Lite</li>
-            </ul>
-        </details>
+        <ul style="list-style:none;">
+            <li>
+                <details style="margin-left: 1rem">
+                    <summary>
+                        <strong>Laptop</strong>
+                    </summary>
+                    <ul>
+                        <li>CPU: Intel Celeron N 2840 (max 2.58 GHz)</li>
+                        <li>RAM: 8GB (DDR3 - 1600mhz)</li>
+                        <li>SSD: 240GB</li>
+                        <li>HDD: 500GB</li>
+                        <li> OS: Linux Lite</li>
+                    </ul>
+                </details>
+            </li>
+        </ul>
     </details>
 </p>
 <!-- Pages -->
@@ -70,112 +74,123 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>Pages</strong>
         </summary>
-        <details style="margin-left: 16px">
-            <summary>
-                <strong>Vue</strong>
-            </summary>
-            <ul>
-                <li>
-                    <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
-                </li>
-                <li>
-                    <a href="#">Task Inertia (pending server from backend)</a>
-                </li>
-                <li>
-                    <a href="#">Counter (Pending)</a>
-                </li>
-            </ul>
-        </details>
-        <details style="margin-left: 1rem">
-            <summary>
-                <strong>Angular</strong>
-            </summary>
-            <ul>
-                <li>
-                    <a href="https://jesus-rojas.github.io/App-Heroes">App Heroes</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Angular-Graficas">Graficas</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Pipes">Pipes</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Angular-Forms">Formularios</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Mapas-Angular">Mapas</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/API-Giphy">Gifs</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Angular-Selectores-Anidados">Select Dinamicos</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Angular-Directivas-Personalizadas">Directivas</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Input-Output">Comunicacion de padre e hijo</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/App-Sneider">App Sneider</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/WebApp-Angular">WebApp + Firebase</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Rest-Countries">Paises (Pending - Fix API Countries)</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/sofka-frontend">Sofka Quiz</a>
-                </li>
-            </ul>
-        </details>
-        <details style="margin-left: 1rem">
-            <summary>
-                <strong>React</strong>
-            </summary>
-            <ul>
-                <li>
-                    <a href="#">Task (I'm working in this)</a>
-                </li>
-            </ul>
-        </details>
-        <details style="margin-left: 1rem">
-            <summary>
-                <strong>Javascript</strong>
-            </summary>
-            <ul>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Calculadora">Calculadora</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/ajedrez-caballo">Ajedrez Move Horse</a>
-                </li>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Ciclos-Arreglos">SENA Exercises</a>
-                </li>
-            </ul>
-        </details>
-        <details style="margin-left: 1rem">
-            <summary>
-                <strong>Html</strong>
-            </summary>
-            <ul>
-                <li>
-                    <a href="https://jesus-rojas.github.io/Pagina-Web">First Page</a>
-                </li>
-                <li>
-                    <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-3">Exercise Usco 3</a>
-                </li>
-                <li>
-                    <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-4">Exercise Usco 4</a>
-                </li>
-                <li>
-                    <a href="https://github.com/Jesus-Rojas/prototype-bus-responsive">Flexbox Distribution Bus Skeleton</a>
-                </li>
-            </ul>
-        </details>
+        <ul style="list-style:none;">
+            <li>
+                <details>
+                    <summary>
+                        <strong>Vue</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
+                        </li>
+                        <li>
+                            <a href="#">Task Inertia (pending server from backend)</a>
+                        </li>
+                        <li>
+                            <a href="#">Counter (Pending)</a>
+                        </li>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        <strong>Angular</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/App-Heroes">App Heroes</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Angular-Graficas">Graficas</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Pipes">Pipes</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Angular-Forms">Formularios</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Mapas-Angular">Mapas</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/API-Giphy">Gifs</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Angular-Selectores-Anidados">Select Dinamicos</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Angular-Directivas-Personalizadas">Directivas</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Input-Output">Comunicacion de padre e hijo</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/App-Sneider">App Sneider</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/WebApp-Angular">WebApp + Firebase</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Rest-Countries">Paises (Pending - Fix API Countries)</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/sofka-frontend">Sofka Quiz</a>
+                        </li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        <strong>React</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="#">Task (I'm working in this)</a>
+                        </li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        <strong>Javascript</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Calculadora">Calculadora</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/ajedrez-caballo">Ajedrez Move Horse</a>
+                        </li>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Ciclos-Arreglos">SENA Exercises</a>
+                        </li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        <strong>Html</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="https://jesus-rojas.github.io/Pagina-Web">First Page</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-3">Exercise Usco 3</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-4">Exercise Usco 4</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Jesus-Rojas/prototype-bus-responsive">Flexbox Distribution Bus Skeleton</a>
+                        </li>
+                    </ul>
+                </details>
+            </li>
+        </ul>
     </details>
 </p>
