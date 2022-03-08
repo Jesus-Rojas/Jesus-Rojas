@@ -76,7 +76,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
             </summary>
             <ul>
                 <li>
-                    <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
+                    <a target="_blank" href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
                 </li>
                 <li>
                     <a href="#">Task Inertia (pending server from backend)</a>
