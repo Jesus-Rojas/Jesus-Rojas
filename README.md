@@ -50,7 +50,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>My environments</strong>
         </summary>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>Laptop</strong>
             </summary>
@@ -70,13 +70,13 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>Pages</strong>
         </summary>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>Vue</strong>
             </summary>
             <ul>
                 <li>
-                    <a target="_blank" href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
+                    <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
                 </li>
                 <li>
                     <a href="#">Task Inertia (pending server from backend)</a>
@@ -86,7 +86,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                 </li>
             </ul>
         </details>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>Angular</strong>
             </summary>
@@ -132,7 +132,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                 </li>
             </ul>
         </details>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>React</strong>
             </summary>
@@ -142,7 +142,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                 </li>
             </ul>
         </details>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>Javascript</strong>
             </summary>
@@ -158,7 +158,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                 </li>
             </ul>
         </details>
-        <details>
+        <details style="margin-left: 1rem">
             <summary>
                 <strong>Html</strong>
             </summary>
