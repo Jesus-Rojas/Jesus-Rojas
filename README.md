@@ -50,7 +50,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>My environments</strong>
         </summary>
-        <ul style="list-style:none !important;">
+        <ol>
             <li>
                 <details>
                     <summary>
@@ -65,7 +65,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                     </ul>
                 </details>
             </li>
-        </ul>
+        </ol>
     </details>
 </p>
 <!-- Pages -->
@@ -74,7 +74,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
         <summary>
             <strong>Pages</strong>
         </summary>
-        <ul style="list-style:none !important;">
+        <ol>
             <li>
                 <details>
                     <summary>
@@ -191,6 +191,6 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                     </ul>
                 </details>
             </li>
-        </ul>
+        </ol>
     </details>
 </p>
