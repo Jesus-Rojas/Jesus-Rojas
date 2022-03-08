@@ -85,7 +85,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                             <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
                         </li>
                         <li>
-                            <a href="#">Task Inertia (pending server from backend)</a>
+                            <a href="https://test-rojas.herokuapp.com/dashboard">Task Inertia</a>
                         </li>
                         <li>
                             <a href="#">Counter (Pending)</a>
@@ -132,7 +132,7 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                             <a href="https://jesus-rojas.github.io/WebApp-Angular">WebApp + Firebase</a>
                         </li>
                         <li>
-                            <a href="https://jesus-rojas.github.io/Rest-Countries">Paises (Pending - Fix API Countries)</a>
+                            <a href="https://jesus-rojas.github.io/Rest-Countries">Paises</a>
                         </li>
                         <li>
                             <a href="https://jesus-rojas.github.io/sofka-frontend">Sofka Quiz</a>
