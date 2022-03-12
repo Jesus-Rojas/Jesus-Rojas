@@ -200,6 +200,18 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                     </ul>
                 </details>
             </li>
+            <li>
+                <details>
+                    <summary>
+                        <strong>Electron JS</strong>
+                    </summary>
+                    <ul>
+                        <li>
+                            <a href="#">Udeler (pending)</a>
+                        </li>
+                    </ul>
+                </details>
+            </li>
         </ol>
     </details>
 </p>
