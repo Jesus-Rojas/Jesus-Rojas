@@ -171,6 +171,9 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                             <a href="https://jesus-rojas.github.io/Ciclos-Arreglos">SENA Exercises</a>
                         </li>
                         <li>
+                            <a href="https://jesus-rojas.github.io/Regex">Expresiones Regulares</a>
+                        </li>
+                        <li>
                             <a href="https://awesome-heisenberg-85f898.netlify.app">Webpack Vanilla</a>
                         </li>
                     </ul>
