@@ -147,8 +147,11 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                     </summary>
                     <ul>
                         <li>
-                            <a href="#">Task (I'm working in this)</a>
+                            <a href="https://jesus-rojas.github.io/curso-react-patrones-render">Task's</a>
                         </li>
+                        <!-- <li>
+                            <a href="https://jesus-rojas.github.io/curso-react-patrones-render">Webpack React</a>
+                        </li> -->
                     </ul>
                 </details>
             </li>
@@ -167,6 +170,9 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                         <li>
                             <a href="https://jesus-rojas.github.io/Ciclos-Arreglos">SENA Exercises</a>
                         </li>
+                        <li>
+                            <a href="https://awesome-heisenberg-85f898.netlify.app">Webpack Vanilla</a>
+                        </li>
                     </ul>
                 </details>
             </li>
@@ -180,13 +186,13 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                             <a href="https://jesus-rojas.github.io/Pagina-Web">First Page</a>
                         </li>
                         <li>
-                            <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-3">Exercise Usco 3</a>
+                            <a href="https://jesus-rojas.github.io/trabajo-usco-css-3">Exercise Usco 3</a>
                         </li>
                         <li>
-                            <a href="https://github.com/Jesus-Rojas/trabajo-usco-css-4">Exercise Usco 4</a>
+                            <a href="https://jesus-rojas.github.io/trabajo-usco-css-4">Exercise Usco 4</a>
                         </li>
                         <li>
-                            <a href="https://github.com/Jesus-Rojas/prototype-bus-responsive">Flexbox Distribution Bus Skeleton</a>
+                            <a href="https://jesus-rojas.github.io/prototype-bus-responsive">Flexbox Distribution Bus Skeleton</a>
                         </li>
                     </ul>
                 </details>
