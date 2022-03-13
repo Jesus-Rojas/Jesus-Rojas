@@ -149,9 +149,9 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
                         <li>
                             <a href="https://jesus-rojas.github.io/curso-react-patrones-render">Task's</a>
                         </li>
-                        <!-- <li>
-                            <a href="https://jesus-rojas.github.io/curso-react-patrones-render">Webpack React</a>
-                        </li> -->
+                        <li>
+                            <a href="https://jesus-rojas.github.io/react-ecommerce">React Ecommerce</a>
+                        </li>
                     </ul>
                 </details>
             </li>
