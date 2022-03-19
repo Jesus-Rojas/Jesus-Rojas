@@ -158,6 +158,9 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
             <li>
               <a href="https://brave-williams-38329b.netlify.app/">Citas Juan Pablo</a>
             </li>
+            <li>
+              <a href="https://flamboyant-lamport-c4491a.netlify.app/">Gastos Juan Pablo</a>
+            </li>
           </ul>
         </details>
       </li>
