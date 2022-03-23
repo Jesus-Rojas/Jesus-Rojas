@@ -110,24 +110,24 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
             <li>
               <a href="https://jesus-rojas.github.io/Pipes">Pipes</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="https://jesus-rojas.github.io/Angular-Forms">Formularios</a>
-            </li>
+            </li> -->
             <li>
               <a href="https://jesus-rojas.github.io/Mapas-Angular">Mapas</a>
             </li>
             <li>
               <a href="https://jesus-rojas.github.io/API-Giphy">Gifs</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="https://jesus-rojas.github.io/Angular-Selectores-Anidados">Select Dinamicos</a>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
               <a href="https://jesus-rojas.github.io/Angular-Directivas-Personalizadas">Directivas</a>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
               <a href="https://jesus-rojas.github.io/Input-Output">Comunicacion de padre e hijo</a>
-            </li>
+            </li> -->
             <li>
               <a href="https://jesus-rojas.github.io/App-Sneider">App Sneider</a>
             </li>
@@ -156,7 +156,10 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
               <a href="https://jesus-rojas.github.io/react-ecommerce-oscar">Ecommerce Oscar</a>
             </li>
             <li>
-              <a href="#">Rick and Morty Oscar</a>
+              <a href="https://stupendous-starburst-296f58.netlify.app">Criptomonedas Juan Pablo</a>
+            </li>
+            <li>
+              <a href="#">Rick and Morty Oscar (pending)</a>
             </li>
             <li>
               <a href="https://brave-williams-38329b.netlify.app/">Citas Juan Pablo</a>
