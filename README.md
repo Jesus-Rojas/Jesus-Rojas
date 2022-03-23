@@ -99,6 +99,9 @@ I have experience in frontend with Angular and Vue JS. In the backend with Larav
           </summary>
           <ul>
             <li>
+              <a href="https://angular-sopotify.netlify.app/tracks">Spotify</a>
+            </li>
+            <li>
               <a href="https://jesus-rojas.github.io/App-Heroes">App Heroes</a>
             </li>
             <li>
