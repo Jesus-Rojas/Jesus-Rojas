@@ -4,11 +4,12 @@
 [![Logo_Github]][Url_Git]
 [![Logo_Gmail]][Url_Gmail]
 
-> ### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
+> #### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
 
-![State_Git_2]
+<br>
 
-#### Programming languages, frameworks, databases and tools:
+### Programming languages, frameworks, databases and tools:
+
 <code>![][Language_Html5]</code>
 <code>![][Language_Css]</code>
 <code>![][Language_NodeJS]</code>
@@ -31,6 +32,7 @@
 <code>![][Language_Npm]</code>
 <code>![][Language_Git]</code>
 <code>![][Language_Postman]</code>
+<code>![][Language_Markdown]</code>
 
 <br>
 
@@ -80,6 +82,7 @@
 [Language_GraphQL]: https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg
 [Language_Html5]: https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg
 [Language_Laravel]: https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg
+[Language_Markdown]: https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg
 [Language_MongoDB]: https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg
 [Language_MySQL]: https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg
 [Language_NodeJS]: https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg
@@ -132,3 +135,4 @@
 [Page_Html_FlexboxDistributionBusSkeleton]: https://jesus-rojas.github.io/prototype-bus-responsive
 
 [Page_Electron_Udeler]: #
+
