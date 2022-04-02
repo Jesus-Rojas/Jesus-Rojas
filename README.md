@@ -4,7 +4,7 @@
 [![Logo_Github]][Url_Git]
 [![Logo_Gmail]][Url_Gmail]
 
-> #### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
+> ### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
 
 ![State_Git_2]
 
@@ -32,16 +32,15 @@
 <code>![][Language_Git]</code>
 <code>![][Language_Postman]</code>
 
-#### Environment:
+<br>
 
-|             | Description |
+| Environment | Description |
 | ----------- | ----------- |
 | Laptop      | - CPU: Intel Celeron N 2840 (max 2.58 GHz) <br> - RAM: 8GB (DDR3 - 1600mhz) <br> - SSD: 240GB <br> - HDD: 500GB <br> - OS: Linux Lite |
 
+<br>
 
-#### Pages:
-
-| Language      |  |
+| Language      | Pages |
 | ----------- | ----------- |
 | Vue | [Platzi Music][Page_Vue_PlatziMusic] <br> [Task Inertia][Page_Vue_TaskInertia] <br> [***Counter (Pending)**][Page_Vue_Counter]|
 | Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] <br> [Sofka Quiz][Page_Angular_SofkaQuiz] |
@@ -133,4 +132,3 @@
 [Page_Html_FlexboxDistributionBusSkeleton]: https://jesus-rojas.github.io/prototype-bus-responsive
 
 [Page_Electron_Udeler]: #
-
