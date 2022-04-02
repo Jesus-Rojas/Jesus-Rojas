@@ -1,235 +1,136 @@
-### This is Jesus Rojas!
+[Comment: Header]: #
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jesus-Rojas)
-[![email](https://img.shields.io/badge/-jarojas6524@misena.edu.co-000?style=flat-square&logo=gmail)](mailto:jarojas6524@misena.edu.co)
+### This is Jesus Rojas! :basketball:
+[![Logo_Github]][Url_Git]
+[![Logo_Gmail]][Url_Gmail]
 
-I am a young man with a passion for programming .
-I like to solve problems since it helps me to be self-taught.
-I have experience in frontend with Angular and Vue JS. In the backend with Laravel.
+> *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
+
+![State_Git_2]
+
+#### Programming languages, frameworks, databases and tools:
+<code>![][Language_Html5]</code>
+<code>![][Language_Css]</code>
+<code>![][Language_NodeJS]</code>
+<code>![][Language_Php]</code>
+<code>![][Language_Python]</code>
+<code>![][Language_Sass]</code>
+<code>![][Language_Angular]</code>
+<code>![][Language_Vue]</code>
+<code>![][Language_React]</code>
+<code>![][Language_Laravel]</code>
+<code>![][Language_Electron]</code>
+<code>![][Language_Webpack]</code>
+<code>![][Language_GraphQL]</code>
+<code>![][Language_Bootstrap]</code>
+<code>![][Language_ViteJS]</code>
+<code>![][Language_Firebase]</code>
+<code>![][Language_PostgreSQL]</code>
+<code>![][Language_MongoDB]</code>
+<code>![][Language_MySQL]</code>
+<code>![][Language_Npm]</code>
+<code>![][Language_Git]</code>
+<code>![][Language_Postman]</code>
+
+#### Environment:
+
+|             | Description |
+| ----------- | ----------- |
+| Laptop      | - CPU: Intel Celeron N 2840 (max 2.58 GHz) <br> - RAM: 8GB (DDR3 - 1600mhz) <br> - SSD: 240GB <br> - HDD: 500GB <br> - OS: Linux Lite |
 
 
-#### Programming languages, databases and tools: 
-<!-- Github States -->
-<p>
-  <!-- Config Api Github -->
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jesus-Rojas&show_icons=true&hide_border=true&show_icons=true&theme=chartreuse-dark" />
-  <!-- Icons Languages -->
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-  <br>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
-  <br>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
-  <br>
-  <br>
-</p>
+#### Pages:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=chartreuse-dark&hide_border=true" align="right">
-</p>
-<!-- Environments -->
-<p>
-  <details>
-    <summary>
-      <strong>My environments</strong>
-    </summary>
-    <ol>
-      <li>
-        <details>
-          <summary>
-            <strong>Laptop</strong>
-          </summary>
-          <ul>
-            <li>CPU: Intel Celeron N 2840 (max 2.58 GHz)</li>
-            <li>RAM: 8GB (DDR3 - 1600mhz)</li>
-            <li>SSD: 240GB</li>
-            <li>HDD: 500GB</li>
-            <li> OS: Linux Lite</li>
-          </ul>
-        </details>
-      </li>
-    </ol>
-  </details>
-</p>
-<!-- Pages -->
-<p>
-  <details>
-    <summary>
-      <strong>Pages</strong>
-    </summary>
-    <ol>
-      <li>
-        <details>
-          <summary>
-            <strong>Vue</strong>
-          </summary>
-          <ul>
-              <li>
-                <a href="https://jesus-rojas.github.io/platzi-music">Platzi Music</a>
-              </li>
-              <li>
-                <a href="https://test-rojas.herokuapp.com/dashboard">Task Inertia</a>
-              </li>
-              <li>
-                <a href="#">Counter (Pending)</a>
-              </li>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>Angular</strong>
-          </summary>
-          <ul>
-            <li>
-              <a href="https://angular-sopotify.netlify.app/tracks">Spotify</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/App-Heroes">App Heroes</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Angular-Graficas">Graficas</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Pipes">Pipes</a>
-            </li>
-            <!-- <li>
-              <a href="https://jesus-rojas.github.io/Angular-Forms">Formularios</a>
-            </li> -->
-            <li>
-              <a href="https://jesus-rojas.github.io/Mapas-Angular">Mapas</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/API-Giphy">Gifs</a>
-            </li>
-            <!-- <li>
-              <a href="https://jesus-rojas.github.io/Angular-Selectores-Anidados">Select Dinamicos</a>
-            </li> -->
-            <!-- <li>
-              <a href="https://jesus-rojas.github.io/Angular-Directivas-Personalizadas">Directivas</a>
-            </li> -->
-            <!-- <li>
-              <a href="https://jesus-rojas.github.io/Input-Output">Comunicacion de padre e hijo</a>
-            </li> -->
-            <li>
-              <a href="https://jesus-rojas.github.io/App-Sneider">App Sneider</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/WebApp-Angular">WebApp + Firebase</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Rest-Countries">Paises</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/sofka-frontend">Sofka Quiz</a>
-            </li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>React</strong>
-          </summary>
-          <ul>
-            <li>
-              <a href="https://jesus-rojas.github.io/curso-react-patrones-render">Task's Juan David</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/react-ecommerce-oscar">Ecommerce Oscar</a>
-            </li>
-            <li>
-              <a href="https://stupendous-starburst-296f58.netlify.app">Criptomonedas Juan Pablo</a>
-            </li>
-            <li>
-              <a href="#">Rick and Morty Oscar (pending)</a>
-            </li>
-            <li>
-              <a href="https://brave-williams-38329b.netlify.app/">Citas Juan Pablo</a>
-            </li>
-            <li>
-              <a href="https://flamboyant-lamport-c4491a.netlify.app/">Gastos Juan Pablo</a>
-            </li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>Javascript</strong>
-          </summary>
-          <ul>
-            <li>
-              <a href="https://jesus-rojas.github.io/Calculadora">Calculadora</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/ajedrez-caballo">Ajedrez Move Horse</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Ciclos-Arreglos">SENA Exercises</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Regex">Expresiones Regulares</a>
-            </li>
-            <li>
-              <a href="https://awesome-heisenberg-85f898.netlify.app">Webpack Vanilla</a>
-            </li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>Html</strong>
-          </summary>
-          <ul>
-            <li>
-              <a href="https://jesus-rojas.github.io/clone-google-html">Clone Google</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/Pagina-Web">First Page</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/trabajo-usco-css-3">Exercise Usco 3</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/trabajo-usco-css-4">Exercise Usco 4</a>
-            </li>
-            <li>
-              <a href="https://jesus-rojas.github.io/prototype-bus-responsive">Flexbox Distribution Bus Skeleton</a>
-            </li>
-            </ul>
-        </details>
-      </li>
-      <li>
-        <details>
-          <summary>
-            <strong>Electron JS</strong>
-          </summary>
-          <ul>
-            <li>
-              <a href="#">Udeler (pending)</a>
-            </li>
-          </ul>
-        </details>
-      </li>
-    </ol>
-  </details>
-</p>
+| Language      |  |
+| ----------- | ----------- |
+| Vue | [Platzi Music][Page_Vue_PlatziMusic] <br> [Task Inertia][Page_Vue_TaskInertia] <br> [***Counter (Pending)**][Page_Vue_Counter]|
+| Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] <br> [Sofka Quiz][Page_Angular_SofkaQuiz] |
+| React      | [Task's Juan David][Page_React_TaskJuanDavid] <br> [Ecommerce Oscar][Page_React_EcommerceOscar] <br> [Cryptomonedas Juan Pablo][Page_React_CryptomonedasJuanPablo] <br> [Rick and Morty Oscar][Page_React_RickAndMortyOscar] <br> [Citas Juan Pablo][Page_React_CitasJuanPablo] <br> [Gastos Juan Pablo][Page_React_GastosJuanPablo] |
+| JavaScript | [Calculadora][Page_JavaScript_Calculadora] <br> [Ajedrez Move Horse][Page_JavaScript_AjedrezMoveHorse] <br> [Sena Exercises][Page_JavaScript_SenaExercises] <br> [Expresiones Regulares][Page_JavaScript_ExpresionesRegulares] <br> [Webpack Vanilla][Page_JavaScript_WebpackVanilla] |
+| Html | [Clone Google][Page_Html_CloneGoogle] <br> [Plugin Google Translate][Page_Html_FirstPage] <br> [Exercise Usco 3][Page_Html_ExerciseUsco3] <br> [Exercise Usco 4][Page_Html_ExerciseUsco4] <br> [FlexBox Distribution Bus Skeleton][Page_Html_FlexboxDistributionBusSkeleton] |
+| Electron | [***Udeler (Pending)**][Page_Electron_Udeler] |
+
+
+
+
+[Comment: Logo]: #
+
+[Logo_Github]: https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white
+[Logo_Gmail]: https://img.shields.io/badge/-jarojas6524@misena.edu.co-000?style=flat-square&logo=gmail
+
+
+[Comment: Url]: #
+
+[Url_Git]: https://github.com/Jesus-Rojas
+[Url_Gmail]: mailto:jarojas6524@misena.edu.co
+
+[Comment: State_Git]: #
+
+[State_Git_1]: https://github-readme-stats.vercel.app/api?username=Jesus-Rojas&show_icons=true&hide_border=true&show_icons=true&theme=chartreuse-dark
+[State_Git_2]: https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=chartreuse-dark&hide_border=true
+
+
+[Comment: Languages]: #
+
+[Language_Angular]: https://www.vectorlogo.zone/logos/angular/angular-icon.svg
+[Language_Bootstrap]: https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
+[Language_Css]: https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg
+[Language_Electron]: https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg
+[Language_Firebase]: https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg
+[Language_Git]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
+[Language_GraphQL]: https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg
+[Language_Html5]: https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg
+[Language_Laravel]: https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg
+[Language_MongoDB]: https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg
+[Language_MySQL]: https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg
+[Language_NodeJS]: https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg
+[Language_Npm]: https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg
+[Language_Php]: https://www.vectorlogo.zone/logos/php/php-icon.svg
+[Language_PostgreSQL]: https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg
+[Language_Postman]: https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg
+[Language_Python]: https://www.vectorlogo.zone/logos/python/python-icon.svg
+[Language_React]: https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
+[Language_Sass]: https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg
+[Language_ViteJS]: #
+[Language_Vue]: https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg
+[Language_Webpack]: https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg
+
+[Comment: Pages]: #
+
+[Page_Vue_PlatziMusic]: https://jesus-rojas.github.io/platzi-music
+[Page_Vue_TaskInertia]: https://test-rojas.herokuapp.com/dashboard
+[Page_Vue_Counter]: #
+
+[Page_Angular_Spotify]: https://angular-sopotify.netlify.app/tracks
+[Page_Angular_AppHeroes]: https://jesus-rojas.github.io/App-Heroes
+[Page_Angular_Graficas]: https://jesus-rojas.github.io/Angular-Graficas
+[Page_Angular_Pipes]: https://jesus-rojas.github.io/Pipes
+[Page_Angular_Mapas]: https://jesus-rojas.github.io/Mapas-Angular
+[Page_Angular_Gifs]: https://jesus-rojas.github.io/API-Giphy
+[Page_Angular_AppSneider]: https://jesus-rojas.github.io/App-Sneider
+[Page_Angular_FirstPage]: https://jesus-rojas.github.io/WebApp-Angular
+[Page_Angular_Paises]: https://jesus-rojas.github.io/Rest-Countries
+[Page_Angular_SofkaQuiz]: https://jesus-rojas.github.io/sofka-frontend
+
+[Page_React_TaskJuanDavid]: https://jesus-rojas.github.io/curso-react-patrones-render
+[Page_React_EcommerceOscar]: https://jesus-rojas.github.io/react-ecommerce-oscar
+[Page_React_CryptomonedasJuanPablo]: https://stupendous-starburst-296f58.netlify.app/
+[Page_React_RickAndMortyOscar]: https://github.com/Jesus-Rojas#
+[Page_React_CitasJuanPablo]: https://brave-williams-38329b.netlify.app/
+[Page_React_GastosJuanPablo]: https://flamboyant-lamport-c4491a.netlify.app/
+
+
+[Page_JavaScript_Calculadora]: https://jesus-rojas.github.io/Calculadora
+[Page_JavaScript_AjedrezMoveHorse]: https://jesus-rojas.github.io/ajedrez-caballo
+[Page_JavaScript_SenaExercises]: https://jesus-rojas.github.io/Ciclos-Arreglos
+[Page_JavaScript_ExpresionesRegulares]: https://jesus-rojas.github.io/Regex
+[Page_JavaScript_WebpackVanilla]: https://awesome-heisenberg-85f898.netlify.app/
+
+[Page_Html_CloneGoogle]: https://jesus-rojas.github.io/clone-google-html
+[Page_Html_FirstPage]: https://jesus-rojas.github.io/Pagina-Web
+[Page_Html_ExerciseUsco3]: https://jesus-rojas.github.io/trabajo-usco-css-3
+[Page_Html_ExerciseUsco4]: https://jesus-rojas.github.io/trabajo-usco-css-4
+[Page_Html_FlexboxDistributionBusSkeleton]: https://jesus-rojas.github.io/prototype-bus-responsive
+
+[Page_Electron_Udeler]: #
+
