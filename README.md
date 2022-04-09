@@ -8,7 +8,6 @@
 
 <br>
 
-![State_Git_1]
 <!-- ### Programming languages, frameworks, databases and tools: -->
 
 <!-- <code>![][Language_Html5]</code>
