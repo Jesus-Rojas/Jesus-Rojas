@@ -4,13 +4,13 @@
 [![Logo_Github]][Url_Git]
 [![Logo_Gmail]][Url_Gmail]
 
-> #### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
+> ### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
 
 <br>
 
-### Programming languages, frameworks, databases and tools:
+<!-- ### Programming languages, frameworks, databases and tools: -->
 
-<code>![][Language_Html5]</code>
+<!-- <code>![][Language_Html5]</code>
 <code>![][Language_Css]</code>
 <code>![][Language_NodeJS]</code>
 <code>![][Language_Php]</code>
@@ -32,24 +32,30 @@
 <code>![][Language_Npm]</code>
 <code>![][Language_Git]</code>
 <code>![][Language_Postman]</code>
-<code>![][Language_Markdown]</code>
+<code>![][Language_Markdown]</code> -->
+
+<details>
+
+  | Environment | Description |
+  | ----------- | ----------- |
+  | Laptop      | - CPU: Intel Celeron N 2840 (max 2.58 GHz) <br> - RAM: 8GB (DDR3 - 1600mhz) <br> - SSD: 240GB <br> - HDD: 500GB <br> - OS: Linux Lite |
+  <br>
+
+  | Language      | Pages |
+  | ----------- | ----------- |
+  | Vue | [Platzi Music][Page_Vue_PlatziMusic] <br> [Task Inertia][Page_Vue_TaskInertia] <br> [***Counter (Pending)**][Page_Vue_Counter]|
+  | Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] <br> [Sofka Quiz][Page_Angular_SofkaQuiz] |
+  | React      | [Task's Juan David][Page_React_TaskJuanDavid] <br> [Ecommerce Oscar][Page_React_EcommerceOscar] <br> [Cryptomonedas Juan Pablo][Page_React_CryptomonedasJuanPablo] <br> [Rick and Morty Oscar][Page_React_RickAndMortyOscar] <br> [Citas Juan Pablo][Page_React_CitasJuanPablo] <br> [Gastos Juan Pablo][Page_React_GastosJuanPablo] |
+  | JavaScript | [Calculadora][Page_JavaScript_Calculadora] <br> [Ajedrez Move Horse][Page_JavaScript_AjedrezMoveHorse] <br> [Sena Exercises][Page_JavaScript_SenaExercises] <br> [Expresiones Regulares][Page_JavaScript_ExpresionesRegulares] <br> [Webpack Vanilla][Page_JavaScript_WebpackVanilla] |
+  | Html | [Clone Google][Page_Html_CloneGoogle] <br> [Plugin Google Translate][Page_Html_FirstPage] <br> [Exercise Usco 3][Page_Html_ExerciseUsco3] <br> [Exercise Usco 4][Page_Html_ExerciseUsco4] <br> [FlexBox Distribution Bus Skeleton][Page_Html_FlexboxDistributionBusSkeleton] |
+  | Electron | [***Udeler (Pending)**][Page_Electron_Udeler] |
+
+</details>
+
+
 
 <br>
 
-| Environment | Description |
-| ----------- | ----------- |
-| Laptop      | - CPU: Intel Celeron N 2840 (max 2.58 GHz) <br> - RAM: 8GB (DDR3 - 1600mhz) <br> - SSD: 240GB <br> - HDD: 500GB <br> - OS: Linux Lite |
-
-<br>
-
-| Language      | Pages |
-| ----------- | ----------- |
-| Vue | [Platzi Music][Page_Vue_PlatziMusic] <br> [Task Inertia][Page_Vue_TaskInertia] <br> [***Counter (Pending)**][Page_Vue_Counter]|
-| Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] <br> [Sofka Quiz][Page_Angular_SofkaQuiz] |
-| React      | [Task's Juan David][Page_React_TaskJuanDavid] <br> [Ecommerce Oscar][Page_React_EcommerceOscar] <br> [Cryptomonedas Juan Pablo][Page_React_CryptomonedasJuanPablo] <br> [Rick and Morty Oscar][Page_React_RickAndMortyOscar] <br> [Citas Juan Pablo][Page_React_CitasJuanPablo] <br> [Gastos Juan Pablo][Page_React_GastosJuanPablo] |
-| JavaScript | [Calculadora][Page_JavaScript_Calculadora] <br> [Ajedrez Move Horse][Page_JavaScript_AjedrezMoveHorse] <br> [Sena Exercises][Page_JavaScript_SenaExercises] <br> [Expresiones Regulares][Page_JavaScript_ExpresionesRegulares] <br> [Webpack Vanilla][Page_JavaScript_WebpackVanilla] |
-| Html | [Clone Google][Page_Html_CloneGoogle] <br> [Plugin Google Translate][Page_Html_FirstPage] <br> [Exercise Usco 3][Page_Html_ExerciseUsco3] <br> [Exercise Usco 4][Page_Html_ExerciseUsco4] <br> [FlexBox Distribution Bus Skeleton][Page_Html_FlexboxDistributionBusSkeleton] |
-| Electron | [***Udeler (Pending)**][Page_Electron_Udeler] |
 
 
 
