@@ -8,37 +8,11 @@
 
 <br>
 
-<!-- ### Programming languages, frameworks, databases and tools: -->
-
-<!-- <code>![][Language_Html5]</code>
-<code>![][Language_Css]</code>
-<code>![][Language_NodeJS]</code>
-<code>![][Language_Php]</code>
-<code>![][Language_Python]</code>
-<code>![][Language_Sass]</code>
-<code>![][Language_Angular]</code>
-<code>![][Language_Vue]</code>
-<code>![][Language_React]</code>
-<code>![][Language_Laravel]</code>
-<code>![][Language_Electron]</code>
-<code>![][Language_Webpack]</code>
-<code>![][Language_GraphQL]</code>
-<code>![][Language_Bootstrap]</code>
-<code>![][Language_ViteJS]</code>
-<code>![][Language_Firebase]</code>
-<code>![][Language_PostgreSQL]</code>
-<code>![][Language_MongoDB]</code>
-<code>![][Language_MySQL]</code>
-<code>![][Language_Npm]</code>
-<code>![][Language_Git]</code>
-<code>![][Language_Postman]</code>
-<code>![][Language_Markdown]</code> -->
-
 <details>
+  <summary style="list-style: none;">
+    <img src="https://cdn.pixabay.com/photo/2016/04/06/17/54/click-here-1312391_960_720.png" width="100"/>
+  </summary>
 
-  | Environment | Description |
-  | ----------- | ----------- |
-  | Laptop      | - CPU: Intel Celeron N 2840 (max 2.58 GHz) <br> - RAM: 8GB (DDR3 - 1600mhz) <br> - SSD: 240GB <br> - HDD: 500GB <br> - OS: Linux Lite |
   <br>
 
   | Language      | Pages |
@@ -49,16 +23,7 @@
   | JavaScript | [Calculadora][Page_JavaScript_Calculadora] <br> [Ajedrez Move Horse][Page_JavaScript_AjedrezMoveHorse] <br> [Sena Exercises][Page_JavaScript_SenaExercises] <br> [Expresiones Regulares][Page_JavaScript_ExpresionesRegulares] <br> [Webpack Vanilla][Page_JavaScript_WebpackVanilla] |
   | Html | [Clone Google][Page_Html_CloneGoogle] <br> [Plugin Google Translate][Page_Html_FirstPage] <br> [Exercise Usco 3][Page_Html_ExerciseUsco3] <br> [Exercise Usco 4][Page_Html_ExerciseUsco4] <br> [FlexBox Distribution Bus Skeleton][Page_Html_FlexboxDistributionBusSkeleton] |
   | Electron | [***Udeler (Pending)**][Page_Electron_Udeler] |
-
 </details>
-
-
-
-<br>
-
-
-
-
 
 [Comment: Logo]: #
 
@@ -102,6 +67,7 @@
 [Language_ViteJS]: #
 [Language_Vue]: https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg
 [Language_Webpack]: https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg
+
 
 [Comment: Pages]: #
 
