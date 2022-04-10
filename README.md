@@ -9,8 +9,8 @@
 <br>
 
 <details>
-  <summary style="display: block">
-    <img src="https://cdn.pixabay.com/photo/2016/04/06/17/54/click-here-1312391_960_720.png" width="100"/>
+  <summary>
+    <b>Clic Aqui</b> (contiene paginas web).
   </summary>
 
   <br>
