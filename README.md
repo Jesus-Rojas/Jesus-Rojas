@@ -4,7 +4,7 @@
 [![Logo_Github]][Url_Git]
 [![Logo_Gmail]][Url_Gmail]
 
-#### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular** and **Vue**. In the backend with **Laravel***.
+#### *I am a young man with a passion for programming . I like to solve problems since it helps me to be self-taught. I have experience in frontend with **Angular**, **React** and **Vue**. In the backend with **Laravel**. I am learning **Livewire***.
 
 <br>
 
