@@ -18,7 +18,7 @@
   | Language      | Pages |
   | ----------- | ----------- |
   | Vue | [Platzi Music][Page_Vue_PlatziMusic] <br> [Task Inertia][Page_Vue_TaskInertia] <br> [***Counter (Pending)**][Page_Vue_Counter]|
-  | Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] <br> [Sofka Quiz][Page_Angular_SofkaQuiz] |
+  | Angular | [Spotify][Page_Angular_Spotify] <br> [App Heroes][Page_Angular_AppHeroes] <br> [Graficas][Page_Angular_Graficas] <br> [Pipes][Page_Angular_Pipes] <br> [Mapas][Page_Angular_Mapas] <br> [Gifs][Page_Angular_Gifs] <br> [App Sneider][Page_Angular_AppSneider] <br> [First Page][Page_Angular_FirstPage] <br> [Paises][Page_Angular_Paises] |
   | React      | [Task's Juan David][Page_React_TaskJuanDavid] <br> [Ecommerce Oscar][Page_React_EcommerceOscar] <br> [Cryptomonedas Juan Pablo][Page_React_CryptomonedasJuanPablo] <br> [Rick and Morty Oscar][Page_React_RickAndMortyOscar] <br> [Citas Juan Pablo][Page_React_CitasJuanPablo] <br> [Gastos Juan Pablo][Page_React_GastosJuanPablo] |
   | JavaScript | [Calculadora][Page_JavaScript_Calculadora] <br> [Ajedrez Move Horse][Page_JavaScript_AjedrezMoveHorse] <br> [Sena Exercises][Page_JavaScript_SenaExercises] <br> [Expresiones Regulares][Page_JavaScript_ExpresionesRegulares] <br> [Webpack Vanilla][Page_JavaScript_WebpackVanilla] |
   | Html | [Clone Google][Page_Html_CloneGoogle] <br> [Plugin Google Translate][Page_Html_FirstPage] <br> [Exercise Usco 3][Page_Html_ExerciseUsco3] <br> [Exercise Usco 4][Page_Html_ExerciseUsco4] <br> [FlexBox Distribution Bus Skeleton][Page_Html_FlexboxDistributionBusSkeleton] |
@@ -76,15 +76,14 @@
 [Page_Vue_Counter]: #
 
 [Page_Angular_Spotify]: https://angular-sopotify.netlify.app/tracks
-[Page_Angular_AppHeroes]: https://jesus-rojas.github.io/App-Heroes
-[Page_Angular_Graficas]: https://jesus-rojas.github.io/Angular-Graficas
-[Page_Angular_Pipes]: https://jesus-rojas.github.io/Pipes
-[Page_Angular_Mapas]: https://jesus-rojas.github.io/Mapas-Angular
-[Page_Angular_Gifs]: https://jesus-rojas.github.io/API-Giphy
-[Page_Angular_AppSneider]: https://jesus-rojas.github.io/App-Sneider
-[Page_Angular_FirstPage]: https://jesus-rojas.github.io/WebApp-Angular
-[Page_Angular_Paises]: https://jesus-rojas.github.io/Rest-Countries
-[Page_Angular_SofkaQuiz]: https://jesus-rojas.github.io/sofka-frontend
+[Page_Angular_AppHeroes]: https://benevolent-blancmange-d86d76.netlify.app/
+[Page_Angular_Graficas]: https://jovial-cucurucho-f5b892.netlify.app/
+[Page_Angular_Pipes]: https://eloquent-taffy-fe79d8.netlify.app/
+[Page_Angular_Mapas]: https://spontaneous-tartufo-8675d4.netlify.app/
+[Page_Angular_Gifs]: https://fastidious-bonbon-923549.netlify.app/
+[Page_Angular_AppSneider]: https://marvelous-scone-cea5a0.netlify.app/
+[Page_Angular_FirstPage]: https://bejewelled-pixie-855d7f.netlify.app/
+[Page_Angular_Paises]: https://gentle-sherbet-8195e2.netlify.app/
 
 [Page_React_TaskJuanDavid]: https://jesus-rojas.github.io/curso-react-patrones-render
 [Page_React_EcommerceOscar]: https://jesus-rojas.github.io/react-ecommerce-oscar
