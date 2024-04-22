@@ -10,12 +10,7 @@
 
 ##### I am a young man with a passion for programming, i am learning `Astro`. I have experience in `Angular`, `React`, `Vue`, `Laravel`, `Laravel Nova`, `Livewire`, `Nx`, `NestJS`, `Docker`. 
 
-<br>
-
-[![Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true&langs_count=10&hide=Less)](/#gh-dark-mode-only)
-[![Light Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=graywhite&hide_border=false&langs_count=10&hide=Less)](/#gh-light-mode-only)
-
-#### Contributions
+#### I have collaborated on these projects
 
 - [Cootranshuila](https://cootranshuila.com/) | Laravel, jQuery, Javascript, Bootstrap
 - [Hermes Cootranshuila](https://hermes.cootranshuila.com/login) | Laravel, Vue, Bootstrap Vue, Axios, Mailer, Cron Jobs, Digital Ocean, Docker, Pusher, JWT Auth, Redis
@@ -28,8 +23,28 @@
 - [Seizon](https://seizon-nft.netlify.app/) | NX, PostgreSQL, React, NestJS, Metamask, AWS, Handlebars, Solidity
 - [Horizons PWC](https://apps.apple.com/co/app/horizons-pwc/id1642888930) | NX, MySQL, Angular, NestJS, JWT Auth, AWS, Handlebars, MultiLanguage, Cron Jobs, Mailer
 
+<br />
 
-[Comment: State_Git]: #
+<picture>
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Jesus-Rojas&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Jesus-Rojas&show_icons=true&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right"/>
+</picture>
 
-[State_Git_1]: https://github-readme-stats.vercel.app/api?username=Jesus-Rojas&show_icons=true&hide_border=true&show_icons=true&theme=chartreuse-dark
-[State_Git_2]: https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true&hide_progress=true
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true&langs_count=8&hide=Less"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=graywhite&hide_border=false&langs_count=8&hide=Less"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img />
+</picture>
