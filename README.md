@@ -2,8 +2,11 @@
 
 ### This is Jesus Rojas! 😰
 
-[![](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&labelColor=black&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17)
-[![](https://img.shields.io/badge/-jarojas6524@misena.edu.co-000?style=flat-square&logo=gmail)](mailto:jarojas6524@misena.edu.co)
+[![](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&labelColor=black&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17#gh-dark-mode-only)
+[![](https://img.shields.io/badge/-jarojas6524@misena.edu.co-000?style=flat&logo=gmail)](mailto:jarojas6524@misena.edu.co/#gh-dark-mode-only)
+
+[![](https://img.shields.io/badge/-LinkedIn-fff?style=flat&logo=LinkedIn&labelColor=fff&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17#gh-light-mode-only)
+[![](https://img.shields.io/badge/-jarojas6524@misena.edu.co-fff?style=flat&logo=gmail)](/#gh-light-mode-only)
 
 ##### I am a young man with a passion for programming, i am learning `Astro`. I have experience in `Angular`, `React`, `Vue`, `Laravel`, `Laravel Nova`, `Livewire`, `Nx`, `NestJS`, `Docker`. 
 
