@@ -12,8 +12,8 @@
 
 <br>
 
-[![Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true)](/#gh-dark-mode-only)
-[![Light Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=graywhite&hide_border=false)](/#gh-light-mode-only)
+[![Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true&langs_count=10)](/#gh-dark-mode-only)
+[![Light Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=graywhite&hide_border=false&langs_count=10)](/#gh-light-mode-only)
 
 #### Contributions
 
