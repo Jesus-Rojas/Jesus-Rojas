@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=gmail)](mailto:jarojas6524@misena.edu.co)
 [![](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&labelColor=black&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17)
 
-##### *I am a young man with a passion for programming. I have experience in frontend with **Angular**, **React**, **Vue**. In the backend with **Laravel**, **Laravel Nova**, **Livewire**, **Nx**, **NestJS**, **Docker**. I am learning **Astro***.
+##### I am a young man with a passion for programming. I have experience in `Angular`, `React`, `Vue`, `Laravel`, `Laravel Nova`, `Livewire`, `Nx`, `NestJS`, `Docker`. I am learning `Astro`.
 
 <br>
 
