@@ -2,14 +2,15 @@
 
 ### This is Jesus Rojas! 😰
 
-[![](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=gmail)](mailto:jarojas6524@misena.edu.co)
 [![](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&labelColor=black&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17)
+[![](https://img.shields.io/badge/-jarojas6524@misena.edu.co-000?style=flat-square&logo=gmail)](mailto:jarojas6524@misena.edu.co)
 
-##### I am a young man with a passion for programming. I have experience in `Angular`, `React`, `Vue`, `Laravel`, `Laravel Nova`, `Livewire`, `Nx`, `NestJS`, `Docker`. I am learning `Astro`.
+##### I am a young man with a passion for programming, i am learning `Astro`. I have experience in `Angular`, `React`, `Vue`, `Laravel`, `Laravel Nova`, `Livewire`, `Nx`, `NestJS`, `Docker`. 
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true)
+[![Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=react&hide_border=true)](/#gh-dark-mode-only)
+[![Light Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Rojas&layout=compact&theme=graywhite&hide_border=false)](/#gh-light-mode-only)
 
 #### Contributions
 
