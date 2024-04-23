@@ -53,7 +53,7 @@
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
   ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer)
   ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-  ![Adobe XD](https://img.shields.io/badge/adobe_xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff) <br>
+  ![Adobe XD](https://img.shields.io/badge/adobe_xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
   ![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)
   ![ClickUp](https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=fff)
   ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)
