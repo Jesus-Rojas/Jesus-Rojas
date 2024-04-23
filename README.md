@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-fff?style=flat&logo=LinkedIn&labelColor=fff&logoColor=blue)](https://www.linkedin.com/in/jesus-rojas17#gh-light-mode-only)
 [![](https://img.shields.io/badge/-jarojas6524@misena.edu.co-fff?style=flat&logo=gmail)](/#gh-light-mode-only)
 
-#### I am a young programming enthusiast. In my free time, I enjoy helping others with their coding issues and sharing best practices. I have found that by assisting others, I often learn new things, which further enriches my passion for programming.
+#### I am a young programming enthusiast. In my free time, I enjoy helping others with their coding issues and sharing best practices. I have found that by assisting others, I often learn new things, which further enriches my passion for programming.sss
 
 <hr>
 
