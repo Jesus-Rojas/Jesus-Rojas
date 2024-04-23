@@ -24,6 +24,7 @@
 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+  ![Saas](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
   ![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular)
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
