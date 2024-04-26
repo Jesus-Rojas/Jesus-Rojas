@@ -79,3 +79,7 @@
 - [Zooverse](https://hub.xyz/zooverse)
 - [Seizon](https://seizon-nft.netlify.app/)
 - [Horizons PWC](https://apps.apple.com/co/app/horizons-pwc/id1642888930)
+
+<hr>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Jesus-Rojas)
