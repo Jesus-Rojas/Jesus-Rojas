@@ -82,5 +82,5 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=jesus-rojas&style=for-the-badge&base=1748&abbreviated=true&color=orange)
-
+[![](https://komarev.com/ghpvc/?username=jesus-rojas&style=for-the-badge&base=1748&abbreviated=true&color=orange)](/#gh-dark-mode-only)
+[![](https://komarev.com/ghpvc/?username=jesus-rojas&style=for-the-badge&base=1748&abbreviated=true&color=blue)](/#gh-light-mode-only)
