@@ -82,4 +82,5 @@
 
 <hr>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Jesus-Rojas)
+![](https://komarev.com/ghpvc/?username=jesus-rojas&style=for-the-badge&base=1748&abbreviated=true&color=orange)
+
